@@ -84,7 +84,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CuttingCounter
   counterTopPoint: {fileID: 5230005109862489392}
-  cutKitchenObjectSO: {fileID: 11400000, guid: fff954b40d2a3034cb10b2cc99a86c40, type: 2}
+  cuttingRecipeSOArray:
+  - {fileID: 11400000, guid: bcdbc3b64ffeffa4eb23d2c842d6e68b, type: 2}
+  - {fileID: 11400000, guid: 2dd7682730a6c7f41a2aeae37716281a, type: 2}
+  - {fileID: 11400000, guid: ba292a1b477a0a24aa96db47caa84413, type: 2}
 --- !u!4 &4952480366553020137 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7508513959042101944, guid: fbc173f33dd4c9645ab76e7150482877, type: 3}
